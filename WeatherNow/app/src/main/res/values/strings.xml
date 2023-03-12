@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Now</string>
+    <string name="cityName">Testing</string>
+    <string name="temperature">60C</string>
+    <string name="description">Sunny</string>
+    <string name="city" translatable="false">Rio De Janeiro</string>
+    <string name="buttonImage" translatable="false">menu image</string>
+    <string name="weatherImage" translatable="false">weather image</string>
+    <string name="known_location">Known location</string>
+</resources>
